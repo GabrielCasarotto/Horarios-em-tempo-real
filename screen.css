@@ -1,0 +1,13 @@
+@media screen and (max-width: 760px) {
+    h1{
+        align-items: center;
+    }
+
+    section{
+        max-width: 400px;
+    }
+
+    #imagem{
+        align-items: center;
+    }
+}
